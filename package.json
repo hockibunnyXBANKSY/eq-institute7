@@ -1,0 +1,5 @@
+{
+  "name": "eq7-institute",
+  "version": "1.0.0",
+  "scripts": { "dev": "react-scripts start" }
+}
